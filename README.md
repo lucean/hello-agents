@@ -1,6 +1,6 @@
 # hello-agents
 
-A simple Python project that prints "Hello, World!".
+A simple Python project that prints "Hello, Agents!".
 
 ## Run
 
